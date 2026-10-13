@@ -1,0 +1,8 @@
+{
+  "name": "Nossa História ❤️ - Uma Carta de Amor Para Você",
+  "description": "Uma surpresa especial que preparei para você, meu amor, com missões do nosso amor, caça ao açaí, nosso quiz e uma cartinha inesquecível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
